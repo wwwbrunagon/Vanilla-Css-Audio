@@ -1,1 +1,7 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.banner {
+  background-image: url(../Vanillajs30/assets/img/ontheroad.jpg) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0;
+}
+/*# sourceMappingURL=style.css.map */
